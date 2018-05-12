@@ -1,0 +1,24 @@
+_repo: Gladys-the-Reaper_15315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beale, Anne
+    gutenberg_agent_id: '5997'
+    url: http://www.gutenberg.org/2009/agents/5997
+description: ''
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Gladys, the Reaper
+url: http://www.gutenberg.org/ebooks/15315
